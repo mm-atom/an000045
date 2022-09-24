@@ -76,6 +76,13 @@
   dependencies:
     multiparty "^4.2.2"
 
+"@mmstudio/an000041@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.npmmirror.com/@mmstudio/an000041/-/an000041-3.0.0.tgz#432dc93a6284b3ccf57ef8dab27d43da31c989a5"
+  integrity sha512-tcfssegJbkB66IDqTB1J+t/2xtfHSUj9C2c+vEqapKhRFNQhSWnu7yyPbrVpyu0I/HIf2eXBqq1wfFi0p1c+sw==
+  dependencies:
+    multiparty "^4.2.2"
+
 "@mmstudio/an000043@^3.0.0":
   version "3.0.0"
   resolved "https://registry.npmjs.org/@mmstudio/an000043/-/an000043-3.0.0.tgz#bcd21628b69a6df9278092b748da401ceba34976"

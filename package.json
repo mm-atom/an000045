@@ -45,7 +45,7 @@
 		"registry": "https://registry.npmjs.org"
 	},
 	"dependencies": {
-		"@mmstudio/an000041": "^2.0.0",
+		"@mmstudio/an000041": "^3.0.0",
 		"@mmstudio/an000043": "^3.0.0"
 	},
 	"devDependencies": {
