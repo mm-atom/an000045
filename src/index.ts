@@ -5,7 +5,7 @@ import up from '@mmstudio/an000043';
 
 const logger = anylogger('@mmstudio/an000045');
 
-export default async function upload(req: IncomingMessage, secrete: boolean) {
+export default async function upload(req: IncomingMessage, encrypt: boolean) {
 	logger.debug('start uploading files');
 	const files = await parsefiles(req);
 	logger.debug('files:', files);
@@ -14,7 +14,7 @@ export default async function upload(req: IncomingMessage, secrete: boolean) {
 			...it,
 			meta: {}
 		};
-	}), secrete);
+	}), encrypt);
 	logger.info('upload all!');
 	return uploaded;
 }

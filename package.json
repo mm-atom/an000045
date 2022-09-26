@@ -46,7 +46,7 @@
 	},
 	"dependencies": {
 		"@mmstudio/an000041": "^3.0.0",
-		"@mmstudio/an000043": "^3.0.0"
+		"@mmstudio/an000043": "^3.0.2"
 	},
 	"devDependencies": {
 		"@mmstudio/config": "^2.0.1",
