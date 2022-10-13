@@ -88,20 +88,20 @@
   dependencies:
     multiparty "^4.2.2"
 
-"@mmstudio/an000043@^3.0.4":
-  version "3.0.4"
-  resolved "https://registry.npmjs.org/@mmstudio/an000043/-/an000043-3.0.4.tgz#b6b1db1d7172628c1ab076667ff9cebf64b028e1"
-  integrity sha512-8V0xWgminldkSozqt2nDSRlk1zopsMskub4AmOad2wwiCTsfOXUjNOgLUZKILHBW6opMTFPnS1anMlqC8i+1wA==
+"@mmstudio/an000043@^3.0.5":
+  version "3.0.5"
+  resolved "https://registry.npmjs.org/@mmstudio/an000043/-/an000043-3.0.5.tgz#3b5b9e9423ab7e9ccff2a91838b411f35aecb51d"
+  integrity sha512-CM5ujH2gfHfC74BWfbyDTHh4myFMkuIgMCrjK5X1IkiAjwQXy7tU1hnjnQ6OeBXF+tFh9hDBXV2owhsVuvVVBQ==
   dependencies:
     "@mmstudio/an000008" "^1.0.202004170754"
     "@mmstudio/an000041" "^2.0.0"
-    "@mmstudio/an000061" "^2.1.0"
+    "@mmstudio/an000061" "^2.1.3"
     minio "^7.0.32"
 
-"@mmstudio/an000061@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.npmjs.org/@mmstudio/an000061/-/an000061-2.1.0.tgz#c9444b884649bd3ba7199aa90a67771cdb38774e"
-  integrity sha512-XQshFit1HF4hpM8Im1euUmjJrLyTX5MxsOWf7uIzHQnjSndFKXBbGXbC2C3J0q8oeyDNOD6NNAtz6QLVNYHTmA==
+"@mmstudio/an000061@^2.1.3":
+  version "2.1.3"
+  resolved "https://registry.npmjs.org/@mmstudio/an000061/-/an000061-2.1.3.tgz#0180ec5ac7207560a288b21fab5b7aacf45c058d"
+  integrity sha512-xHBrcjyv/mKAaHgLrZhpAldsbB/jpxKzW6DI6U5XOn1L8ZyLIIWZSapDr7MyV6rJpEt1VcsvXcnTU/27sEEJpA==
 
 "@next/env@latest":
   version "12.3.1"
