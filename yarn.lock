@@ -103,10 +103,10 @@
   resolved "https://registry.npmjs.org/@mmstudio/an000061/-/an000061-2.0.2.tgz#45b488460c4642e921e26d71cb8bd273fe71f192"
   integrity sha512-q3V8t3lfK+0HaM/gh7I0NmyzacUuue2LwpeaiYTv7u0bUzViYvR2Z6e56tod7btIUEOrWJsOw/3VdcanG5yMzQ==
 
-"@mmstudio/config@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.npmmirror.com/@mmstudio/config/-/config-2.0.1.tgz#1cecb17212a1134143614a4690a6ae09d71c915b"
-  integrity sha512-hJHEroBFlrIy6Z8R24uLZ41oiJk59MXT56GyOIbhi2rq2oscxoVonT0I/o/FRHo5KPSE/Wi28q4V+kL2e8l7bA==
+"@next/env@latest":
+  version "12.3.1"
+  resolved "https://registry.npmmirror.com/@next/env/-/env-12.3.1.tgz#18266bd92de3b4aa4037b1927aa59e6f11879260"
+  integrity sha512-9P9THmRFVKGKt9DYqeC2aKIxm8rlvkK38V1P1sRE7qyoPBIs8l9oo79QoSdPtOWfzkbDAVUqvbQGgTMsb8BtJg==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -143,6 +143,11 @@
   version "1.2.2"
   resolved "https://registry.npmmirror.com/@types/minimist/-/minimist-1.2.2.tgz#ee771e2ba4b3dc5b372935d549fd9617bf345b8c"
   integrity sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==
+
+"@types/node@latest":
+  version "18.8.5"
+  resolved "https://registry.npmmirror.com/@types/node/-/node-18.8.5.tgz#6a31f820c1077c3f8ce44f9e203e68a176e8f59e"
+  integrity sha512-Bq7G3AErwe5A/Zki5fdD3O6+0zDChhg671NfPjtIcbtzDNZTv4NPKMRFr7gtYPG7y+B8uTiNK4Ngd9T0FTar6Q==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.1"

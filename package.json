@@ -48,8 +48,12 @@
 		"@mmstudio/an000041": "^3.0.0",
 		"@mmstudio/an000043": "^3.0.3"
 	},
+	"peerDependencies": {
+		"@next/env": "latest"
+	},
 	"devDependencies": {
-		"@mmstudio/config": "^2.0.1",
+		"@next/env": "latest",
+		"@types/node": "latest",
 		"@typescript-eslint/eslint-plugin": "latest",
 		"@typescript-eslint/parser": "latest",
 		"anylogger": "^1.0.9",
