@@ -83,25 +83,25 @@
 
 "@mmstudio/an000041@^3.0.0":
   version "3.0.0"
-  resolved "https://registry.npmmirror.com/@mmstudio/an000041/-/an000041-3.0.0.tgz#432dc93a6284b3ccf57ef8dab27d43da31c989a5"
+  resolved "https://registry.npmjs.org/@mmstudio/an000041/-/an000041-3.0.0.tgz#432dc93a6284b3ccf57ef8dab27d43da31c989a5"
   integrity sha512-tcfssegJbkB66IDqTB1J+t/2xtfHSUj9C2c+vEqapKhRFNQhSWnu7yyPbrVpyu0I/HIf2eXBqq1wfFi0p1c+sw==
   dependencies:
     multiparty "^4.2.2"
 
-"@mmstudio/an000043@^3.0.3":
-  version "3.0.3"
-  resolved "https://registry.npmmirror.com/@mmstudio/an000043/-/an000043-3.0.3.tgz#13912af55d9b9f1972c154687c293104d4ce559f"
-  integrity sha512-Wl7J6I+7S8SYL446XD7LxqvUdjtY3lU9GLeGDgnfwXBiy40gvQjXoirQnLXg0wkveTkqNxvNUv2+U7nlItaQKA==
+"@mmstudio/an000043@^3.0.4":
+  version "3.0.4"
+  resolved "https://registry.npmjs.org/@mmstudio/an000043/-/an000043-3.0.4.tgz#b6b1db1d7172628c1ab076667ff9cebf64b028e1"
+  integrity sha512-8V0xWgminldkSozqt2nDSRlk1zopsMskub4AmOad2wwiCTsfOXUjNOgLUZKILHBW6opMTFPnS1anMlqC8i+1wA==
   dependencies:
     "@mmstudio/an000008" "^1.0.202004170754"
     "@mmstudio/an000041" "^2.0.0"
-    "@mmstudio/an000061" "^2.0.2"
-    minio "^7.0.28"
+    "@mmstudio/an000061" "^2.1.0"
+    minio "^7.0.32"
 
-"@mmstudio/an000061@^2.0.2":
-  version "2.0.2"
-  resolved "https://registry.npmjs.org/@mmstudio/an000061/-/an000061-2.0.2.tgz#45b488460c4642e921e26d71cb8bd273fe71f192"
-  integrity sha512-q3V8t3lfK+0HaM/gh7I0NmyzacUuue2LwpeaiYTv7u0bUzViYvR2Z6e56tod7btIUEOrWJsOw/3VdcanG5yMzQ==
+"@mmstudio/an000061@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.npmjs.org/@mmstudio/an000061/-/an000061-2.1.0.tgz#c9444b884649bd3ba7199aa90a67771cdb38774e"
+  integrity sha512-XQshFit1HF4hpM8Im1euUmjJrLyTX5MxsOWf7uIzHQnjSndFKXBbGXbC2C3J0q8oeyDNOD6NNAtz6QLVNYHTmA==
 
 "@next/env@latest":
   version "12.3.1"
@@ -2531,9 +2531,9 @@ minimist@^1.2.5:
   resolved "https://registry.npmmirror.com/minimist/-/minimist-1.2.7.tgz#daa1c4d91f507390437c6a8bc01078e7000c4d18"
   integrity sha512-bzfL1YUZsP41gmu/qjrEk0Q6i2ix/cVeAhbCbqH9u3zYutS1cLg00qhrD0M2MVdCcx4Sc0UpP2eBWo9rotpq6g==
 
-minio@^7.0.28:
+minio@^7.0.32:
   version "7.0.32"
-  resolved "https://registry.npmmirror.com/minio/-/minio-7.0.32.tgz#fed6a4679c5954d3efc6df47f73f7e7124446e2c"
+  resolved "https://registry.npmjs.org/minio/-/minio-7.0.32.tgz#fed6a4679c5954d3efc6df47f73f7e7124446e2c"
   integrity sha512-txa7Vr0N24MKzeAybP/wY1jxbLnfGHXwZYyfFXuMW55HX2+HOcKEIgH4hU6Qj/kiMgyXs/ozHjAuLIDrR8nwLg==
   dependencies:
     async "^3.1.0"
