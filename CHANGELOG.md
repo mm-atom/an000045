@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/mm-atom/an000045/compare/v2.1.0...v2.1.1) (2022-10-13)
+
+
+### Bug Fixes
+
+* update deps ([2c7239f](https://github.com/mm-atom/an000045/commit/2c7239f86eadeb826c03cc88076b4b0afe7dc82a))
+
 ## [2.1.0](https://github.com/mm-atom/an000045/compare/v2.0.1...v2.1.0) (2022-10-13)
 
 
