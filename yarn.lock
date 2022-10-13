@@ -83,10 +83,10 @@
   dependencies:
     multiparty "^4.2.2"
 
-"@mmstudio/an000043@^3.0.2":
-  version "3.0.2"
-  resolved "https://registry.npmmirror.com/@mmstudio/an000043/-/an000043-3.0.2.tgz#05b3a62819939147cb183201c4511d8ad39531dd"
-  integrity sha512-J62MIbUeofhfPqriW6qSmGf05xbHvsZxBtLlHtndTfAdP1EMIE29ycNW2nTdl0vLF1sOGwDJjP4wjNTJEseejQ==
+"@mmstudio/an000043@^3.0.3":
+  version "3.0.3"
+  resolved "https://registry.npmmirror.com/@mmstudio/an000043/-/an000043-3.0.3.tgz#13912af55d9b9f1972c154687c293104d4ce559f"
+  integrity sha512-Wl7J6I+7S8SYL446XD7LxqvUdjtY3lU9GLeGDgnfwXBiy40gvQjXoirQnLXg0wkveTkqNxvNUv2+U7nlItaQKA==
   dependencies:
     "@mmstudio/an000008" "^1.0.202004170754"
     "@mmstudio/an000041" "^2.0.0"
